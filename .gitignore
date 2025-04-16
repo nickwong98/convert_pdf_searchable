@@ -1,0 +1,8 @@
+# environment files
+.venv/
+
+# input files
+input/
+
+# output files
+output/
