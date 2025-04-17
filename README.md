@@ -14,7 +14,7 @@ Python 3.12
 **How to use**
 1. Ready jbarlow83/ocrmypdf image in Docker Desktop, no need to create container
 2. Create input folder "input"
-3. Put original pdf files to input folder
+3. Put original pdf files in input folder, they can be both searchable and non-searchable, the app will analyze and convert if needed
 4. Install all requirements --> *pip install -r requirement.txt*
 5. Run app locally --> *python convert_pdf_searchable.py*
-6. Find searchable pdf files in output folder "output"
+6. Find converted searchable pdf files in output folder "output"
